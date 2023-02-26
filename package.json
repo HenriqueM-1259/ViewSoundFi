@@ -1,5 +1,5 @@
 {
-  "name": "vite---react",
+  "name": "viewsoundfi",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -17,5 +17,9 @@
     "@types/react-dom": "^18.0.0",
     "@vitejs/plugin-react": "^1.3.0",
     "vite": "^2.9.9"
-  }
+  },
+  "description": "---\r title: Vite React\r description: Example Vite app that is configured with React\r tags:\r   - vite\r   - react\r ---",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
 }
